@@ -1,0 +1,75 @@
+body{
+    background-color: #eef7f6 ;
+   
+}
+.textarea{
+    border: solid  rgb(63, 223, 223);
+    padding: 20px;
+    background-color: #eef7f6 ;
+    width: 50%;
+    margin: 20px;
+   
+}
+label,input, select{
+  margin:5px;
+  padding: 5px;
+}
+input{
+width: 90%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+
+
+}
+select{
+    width: 45%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+input[type=submit]{
+width: 15%;
+background-color: rgb(63, 223, 223);
+color: white;
+font-size:x-large;
+
+}
+.employeeList{
+border: solid rgb(63, 223, 223);
+    padding: 20px;
+    background-color: #eef7f6 ;
+    width:auto;
+    font-size: small;
+    margin: 20px;
+}
+th{
+background-color: rgb(63, 223, 223);
+color: white;
+height: 60px;
+text-align: center;
+font-size: large;
+
+}  
+td{
+border: 1px solid #dddddd;
+text-align: center;
+height: 40px;
+
+} 
+.post{
+cursor: pointer;
+}  
+
+.new{
+    border: solid  rgb(63, 223, 223);
+    padding: 20px;
+    background-color: #b2f3eb ;
+    width: 50%;
+    margin: 20px;
+}
+
